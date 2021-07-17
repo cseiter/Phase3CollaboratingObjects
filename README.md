@@ -154,3 +154,4 @@ These are just a few hints and guidelines to help you through this lab. Rely on
 the guides here, refer to the previous lessons on object relations, and
 **read the test output and test files**. Never forget to ask a question 
 if you are stuck. Good luck!
+# Phase3CollaboratingObjects
